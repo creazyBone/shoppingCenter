@@ -1,0 +1,6 @@
+server:
+   port: 8012
+   servlet:
+      context-path: /shoppingCenter-login
+   
+ 
